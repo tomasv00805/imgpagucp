@@ -1,0 +1,16 @@
+{
+  "background_color": "#d8049c",
+  "description": "img de la ucp",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "logoucp",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "lucp",
+  "start_url": "/",
+  "theme_color": "#ff0000",
+  "categories": [],
+  "screenshots": [],
+  "icons": [],
+  "shortcuts": []
+}
