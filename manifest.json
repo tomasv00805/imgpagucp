@@ -15,7 +15,7 @@
   "screenshots": [],
   "icons": [{
     "src": "windows11/SmallTile.scale-100.png",
-    "sizes": "71x71"
+    "sizes": "512x512"
   }],
   "shortcuts": []
 }
